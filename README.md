@@ -34,3 +34,6 @@ Node.js
 Express.js
 MongoDB (Mongoose)
 JSON Web Tokens (JWT)
+
+## GitHub Link
+https://github.com/Harshadhote/Shoppy-backend
